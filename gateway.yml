@@ -32,4 +32,4 @@ zuul:
       sensitiveHeaders:
     hi-service:
       path: /hi/**
-      sensitiveHeaders:
+      serviceId: hi-service
