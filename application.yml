@@ -30,10 +30,10 @@ spring:
     scheduled:
       skip-pattern: "^org.*HystrixStreamTask$"
 
-authserver:
-    hostname: auth-service
-    port: 5000
-    contextPath: /uaa
+#authserver:
+    #hostname: auth-service
+    #port: 5000
+    #contextPath: /uaa
 
 #security:
   #oauth2:
