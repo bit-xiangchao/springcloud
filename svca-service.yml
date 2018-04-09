@@ -1,7 +1,7 @@
 server:
   port: 8080
 
-name: test
+name: 测试
 
 management:
   security:
