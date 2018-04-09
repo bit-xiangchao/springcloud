@@ -1,7 +1,7 @@
 server:
   port: 8070
   
-msg: 智能行业云测试
+msg: 智能行业云测试使用
 
 management:
   security:
