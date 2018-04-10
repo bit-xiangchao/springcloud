@@ -1,7 +1,7 @@
 server:
   port: 8070
   
-msg: service测试使用
+msg: serviceB测试使用
 
 management:
   security:
